@@ -1013,7 +1013,7 @@ class _DashboardState extends State<Dashboard> {
           ),
         ),
         appBar: AppBar(
-          title: Text("College Finder"),
+          title: Text("WIMC"),
         ),
         body: Container(
           // decoration: BoxDecoration(boxShadow: [
@@ -1194,7 +1194,7 @@ class _DataViewState extends State<DataView> {
     String departmentSel = "cecutoff";
     return Scaffold(
         appBar: AppBar(
-          title: Text("College Finder"),
+          title: Text("WIMC"),
           backgroundColor: Colors.black,
           shadowColor: Colors.grey,
         ),
